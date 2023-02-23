@@ -1,0 +1,91 @@
+*{
+     padding: 11px;
+     margin: 0px;
+     box-sizing: border-box;
+
+}
+body{display: flex;
+     justify-content: center;
+     text-align: center;
+     flex-wrap: wrap;
+     align-items: flex-end;
+
+}
+               /* haderone */
+
+.haderone{
+     background-color: hsl(31, 77%, 52%);
+          max-height: 28rem;
+          max-width: 15rem;
+}
+
+                    /*  maintwo */
+.maintwo{
+     background-color: hsl(184, 100%, 22%);
+     max-width: 28rem;
+     max-width: 15rem;
+
+}
+                    /* footer */
+.footer{
+     background-color: hsl(179, 100%, 13%);
+     max-width: 28rem;
+     max-width: 15rem;
+}
+
+h1, p{
+     
+     color:hsla(0, 0%, 100%, 0.75);
+     font-family: 'Big Shoulders Display', cursive;
+
+     text-align: center;
+}
+p{
+     word-spacing: 2px;
+     font-weight: normal;
+     font-size: 16px;
+}
+image{
+max-height: 5rem;
+
+}
+.hader{
+     color: hsl(31, 77%, 52%) ;
+      font-family: 'Big Shoulders Display', cursive;
+      -webkit-border-radius: 35% ;
+      background-color:hsla(0, 0%, 95%) ;    
+      padding: 12px 28px;
+      margin-bottom: 2rem;
+      border: 30px;
+
+}
+.main{
+     color:hsl(184, 100%, 22%) ;
+      font-family: 'Big Shoulders Display', cursive;
+      -webkit-border-radius: 35%;
+      background-color:hsl(0, 0%, 95%) ;
+      padding: 12px 28px;
+      margin-bottom: 2rem;
+      border: 30px;
+
+}
+.footerr{
+     color:hsl(179, 100%, 13%)
+     ;
+      font-family: 'Big Shoulders Display', cursive;
+      -webkit-border-radius: 35%;
+      background-color:hsl(0, 0%, 95%) ;
+      padding: 12px 28px;
+      margin-bottom: 2rem;
+      border: 30px;
+
+}
+.attribution { font-size: 16px; text-align: center; 
+}
+    .attribution a { color: hsl(228, 45%, 44%); }
+
+    .mapone{
+    max-width: 13%;
+    max-height: 80%;
+
+    }
